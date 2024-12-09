@@ -5,10 +5,7 @@ This project is meant to be deployed as multiple [AWS Lambda Functions](https://
 
 If you are not interested in completley automating the process of uploading the video to YouTube, then you can mainly focus on the code from the [CreateVideo Lambda Function](CreateVideo/lambda_function.py) to just automate the entire editing process.
 
-## Associated Videos
-- [Original YouTube video](https://youtu.be/vLOgzi5y9xE)
-- [Code walkthrough video](https://youtu.be/h0fMblOdYXU)
-
+ 
 ## Prerequisites
 - [Eleven Labs API](https://api.elevenlabs.io/docs)
     - Create an account at https://elevenlabs.io/
